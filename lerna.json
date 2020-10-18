@@ -1,4 +1,16 @@
 {
+  "changelog": {
+    "labels": {
+      "feat": "Features",
+      "fix": "Bugs",
+      "docs": "Documentation",
+      "style": "Styles",
+      "chore": "Miscellaneous Chores",
+      "refactor": "Code Refactoring",
+      "test": "Tests",
+      "ci": "Continuous Integration"
+    }
+  },
   "packages": [
     "packages/*"
   ],
