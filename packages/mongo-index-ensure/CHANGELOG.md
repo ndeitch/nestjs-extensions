@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## 1.1.19 (2020-10-18)
+
+
+### Bug Fixes
+
+* lerna configuration ([9e93d0d](https://github.com/ndeitch/nestjs-extensions/commit/9e93d0de78d2f19266c1d6ae8bc3c15404b93772))
+
+
+
+
+
 ## 1.1.18 (2020-10-18)
 
 **Note:** Version bump only for package @ndeitch/mongo-index-ensure
