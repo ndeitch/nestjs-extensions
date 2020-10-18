@@ -1,0 +1,16 @@
+{
+  "name": "@ndeitch/mongo-index-ensure",
+  "version": "1.0.0",
+  "license": "UNLICENSED",
+  "author": "Skore IO",
+  "main": "dist/app.module.js",
+  "directories": {
+    "dist": "dist"
+  },
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  }
+}
