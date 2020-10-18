@@ -18,7 +18,6 @@
   "command": {
     "publish": {
       "conventionalCommits": true,
-      "message": "chore(release): v%s",
       "registry": "https://npm.pkg.github.com/",
       "npmClient": "npm"
     },

@@ -1,0 +1,39 @@
+name: On push main
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  build_and_deploy:
+    name: Build and publish to npm
+
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v2
+
+      - name: Setup git config
+        run: |
+          git config user.email natan.luz.deitch@gmail.com
+          git config user.name Natan Deitch
+          git config user.password ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Setup Node 10
+        uses: actions/setup-node@v1
+        with:
+          node-version: '10.x'
+          registry-url: 'https://npm.pkg.github.com'
+
+      - name: Dependencies
+        run: npm install
+
+      - name: Build project
+        run: npm run build
+
+      - name: Publish release
+        run: npx lerna publish
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
