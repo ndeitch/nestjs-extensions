@@ -19,7 +19,8 @@
     "publish": {
       "conventionalCommits": true,
       "message": "chore(release): v%s",
-      "registry": "https://npm.pkg.github.com/"
+      "registry": "https://npm.pkg.github.com/",
+      "npmClient": "npm"
     },
     "version": {
       "allowBranch": [

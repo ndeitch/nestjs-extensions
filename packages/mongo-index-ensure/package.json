@@ -1,6 +1,10 @@
 {
   "name": "@ndeitch/mongo-index-ensure",
   "version": "1.1.2",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ndeitch/nestjs-extensions.git"
+  },
   "license": "UNLICENSED",
   "author": "Skore IO",
   "main": "dist/app.module.js",
@@ -13,5 +17,5 @@
   "scripts": {
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
-  "gitHead": "f2f82c9d2830faa239d12f1c1d3e844e63b5bc1f"
+  "gitHead": "d7ad7acaa2a4fa56a01f673e50df4c1c1ee5146b"
 }
