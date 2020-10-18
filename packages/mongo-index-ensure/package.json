@@ -17,8 +17,5 @@
   "scripts": {
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
-  "publishConfig": {
-    "registry": "https://npm.pkg.github.com/"
-  },
-  "gitHead": "ba6c73d2a1416fbaa7fd902809034669d1603ffc"
+  "gitHead": "a6ac18edc0f815c19c03922a6dd3e16e400922ce"
 }
