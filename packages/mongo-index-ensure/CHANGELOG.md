@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.1.14](https://github.com/ndeitch/nestjs-extensions/compare/@ndeitch/mongo-index-ensure@1.1.13...@ndeitch/mongo-index-ensure@1.1.14) (2020-10-18)
+
+
+### Bug Fixes
+
+* asdasdas ([fbb7ca3](https://github.com/ndeitch/nestjs-extensions/commit/fbb7ca33081b27be0c8e91979c3270b76438b249))
+
+
+
+
+
 ## [1.1.13](https://github.com/ndeitch/nestjs-extensions/compare/@ndeitch/mongo-index-ensure@1.1.12...@ndeitch/mongo-index-ensure@1.1.13) (2020-10-18)
 
 
