@@ -15,9 +15,6 @@ jobs:
       - name: Checkout repo
         uses: actions/checkout@v2
 
-      - name: Fetch git history
-        run: git fetch --prune --unshallow
-
       - name: Setup git config
         run: |
           git config user.email natan.luz.deitch@gmail.com
