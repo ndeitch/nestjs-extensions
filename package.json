@@ -1,5 +1,8 @@
 {
   "name": "root",
+  "scripts": {
+    "build": "npx lerna run build"
+  },
   "dependencies": {
     "@nestjs/common": "^7.0.0",
     "@nestjs/core": "^7.0.0"

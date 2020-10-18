@@ -1,6 +1,7 @@
 # compiled output
-/dist
-/node_modules
+dist/
+node_modules/
+packages/*/dist
 
 # Logs
 logs
@@ -33,6 +34,4 @@ lerna-debug.log*
 !.vscode/launch.json
 !.vscode/extensions.jsonenv_variables:
 
-# Credentials
-skore-one-staging.json
 .npmrc

@@ -15,6 +15,7 @@
     "dist"
   ],
   "scripts": {
+    "build": "npx nest build",
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
   "gitHead": "5ec78aef997594279c60c4f968f671df9b002b7c"
