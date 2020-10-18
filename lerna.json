@@ -1,8 +1,10 @@
 {
-  "packages": [
-    "packages/*"
-  ],
-  "version": "independent",
+  "changelog": {
+    "labels": {
+      "feat": "New Feature",
+      "bug": "Bug Fix"
+    }
+  },
   "command": {
     "publish": {
       "message": "chore(release): publish",
@@ -17,5 +19,9 @@
         "develop"
       ]
     }
-  }
+  },
+  "packages": [
+    "packages/*"
+  ],
+  "version": "independent"
 }
