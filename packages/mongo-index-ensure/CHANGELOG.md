@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# 1.2.0 (2020-10-18)
+
+
+### Features
+
+* lerna changelog package ([54b4d7d](https://github.com/ndeitch/nestjs-extensions/commit/54b4d7d3334791cdcda6a668089d18c5e5ec1115))
+
+
+
+
+
 ## 1.1.19 (2020-10-18)
 
 
