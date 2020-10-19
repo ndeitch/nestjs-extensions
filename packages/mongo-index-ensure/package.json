@@ -1,6 +1,6 @@
 {
   "name": "@ndeitch/mongo-index-ensure",
-  "version": "1.3.0",
+  "version": "1.3.1",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/ndeitch/nestjs-extensions.git"

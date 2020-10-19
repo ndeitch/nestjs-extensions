@@ -3,6 +3,15 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+### 1.3.1 (2020-10-19)
+
+
+### Bug Fixes
+
+* npm upload ([5607f27](https://github.com/ndeitch/nestjs-extensions/commit/5607f274db72c6d01b26a0d6c21a0660ba239a16))
+
+
+
 ## 1.3.0 (2020-10-19)
 
 
