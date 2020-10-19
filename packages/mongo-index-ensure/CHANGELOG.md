@@ -3,6 +3,15 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+### 1.2.6 (2020-10-19)
+
+
+### Refactor
+
+* remove release-it ([1c6f88f](https://github.com/ndeitch/nestjs-extensions/commit/1c6f88f845e5fb4f58e1c2095f34fdbbcbe7eb2b))
+
+
+
 ### 1.2.5 (2020-10-19)
 
 
