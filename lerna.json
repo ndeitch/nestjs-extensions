@@ -6,6 +6,10 @@
       "npmClient": "npm"
     },
     "version": {
+      "allowBranch": [
+        "main",
+        "develop"
+      ],
       "changelogPreset": {
         "name": "conventionalcommits",
         "types": [
@@ -52,10 +56,7 @@
       },
       "conventionalCommits": true,
       "createRelease": "github",
-      "allowBranch": [
-        "main",
-        "develop"
-      ]
+      "message": "chore(release): %s"
     }
   },
   "packages": [
