@@ -6,7 +6,7 @@
     "url": "git+https://github.com/ndeitch/nestjs-extensions.git"
   },
   "license": "UNLICENSED",
-  "author": "Skore IO",
+  "author": "Natan Deitch",
   "main": "dist/app.module.js",
   "directories": {
     "dist": "dist"

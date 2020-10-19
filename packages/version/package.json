@@ -1,10 +1,17 @@
 {
-  "name": "version",
+  "name": "@ndeitch/version",
   "version": "1.0.0",
   "description": "> TODO: description",
-  "author": "Natan Deitch <natan.luz.deitch@gmail.com>",
   "homepage": "https://github.com/ndeitch/nestjs-extensions#readme",
+  "bugs": {
+    "url": "https://github.com/ndeitch/nestjs-extensions/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ndeitch/nestjs-extensions.git"
+  },
   "license": "ISC",
+  "author": "Natan Deitch <natan.luz.deitch@gmail.com>",
   "main": "lib/version.js",
   "directories": {
     "lib": "lib",
@@ -13,14 +20,7 @@
   "files": [
     "lib"
   ],
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/ndeitch/nestjs-extensions.git"
-  },
   "scripts": {
     "test": "echo \"Error: run tests from root\" && exit 1"
-  },
-  "bugs": {
-    "url": "https://github.com/ndeitch/nestjs-extensions/issues"
   }
 }
