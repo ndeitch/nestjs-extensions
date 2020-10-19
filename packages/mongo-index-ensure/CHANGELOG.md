@@ -3,6 +3,15 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+### 1.2.7 (2020-10-19)
+
+
+### Bug Fixes
+
+* lerna mode ([e7e14f9](https://github.com/ndeitch/nestjs-extensions/commit/e7e14f9c68ee56ac35abf44b005976eaba0784f8))
+
+
+
 ### 1.2.6 (2020-10-19)
 
 
