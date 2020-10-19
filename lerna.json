@@ -56,5 +56,5 @@
     "packages/*"
   ],
   "includeMergedTags": true,
-  "version": "independent"
+  "version": "1.2.6"
 }
