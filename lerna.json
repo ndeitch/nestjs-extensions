@@ -8,6 +8,7 @@
     },
     "version": {
       "conventionalCommits": true,
+      "createRelease": "github",
       "allowBranch": [
         "main",
         "develop"
@@ -17,5 +18,6 @@
   "packages": [
     "packages/*"
   ],
+  "includeMergedTags": true,
   "version": "1.2.1"
 }
