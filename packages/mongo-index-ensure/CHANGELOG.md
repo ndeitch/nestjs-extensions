@@ -3,6 +3,15 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+### 1.2.8 (2020-10-19)
+
+
+### Bug Fixes
+
+* publish message ([3385c04](https://github.com/ndeitch/nestjs-extensions/commit/3385c04d3637a6f88c5bffc712711a5900d3d609))
+
+
+
 ### 1.2.7 (2020-10-19)
 
 
